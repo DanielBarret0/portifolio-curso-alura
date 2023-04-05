@@ -45,7 +45,62 @@
     transition: 500ms all;
 }
   ~~~
+  
+  ## Barra de navegacao
+  Usada em todas as paginas do projeto a barra de navegcao deve fica no centro e com pequeno espaçamento entre as opcoes. Acrescentei navegacao com teclado e efeito hover como demonstrado abaixo:
+  
+   ~~~CSS
+.navegacao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 0rem;
+}
 
-# 🖼️ Projeto
+.navegacao__lista {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
 
-# Autor
+.navegacao__lista-link:focus {
+    color: greenyellow;
+}
+
+.navegacao__lista-link:hover {
+    border: 2px solid var(--azul);
+    border-radius: 20px;
+}
+
+.ativo {
+    border-bottom: 2px solid var(--azul);
+}
+  ~~~
+  
+   ## Rodape
+  Usada em todas as paginas do projeto o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteudo centralizado. Abaixo minha solucao.
+  
+ ~~~CSS
+.rodape {
+    padding: 2rem;
+    background: var(--azul);
+    text-align: center;
+    font-family: var(--fonte-secundario);
+    font-size: 1.5rem;
+}
+
+.rodape__link {
+    text-decoration: none;
+    text-transform: bold;
+    color: black;
+}
+
+.rodape__link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+  ~~~
+  
+ 
+
