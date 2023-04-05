@@ -22,29 +22,6 @@
 
 # 🖼️ Minha experiencia
 
-  ## Pagina Home
-  O desafio dessa pagina foi centralizar todo conteudo e organizar os espaçamentos entre cada item. Minha solucao foi usar o Flexbox como demonstrado abaixo.
-  
-  ~~~CSS
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-}
-
-.conteudo {
-    padding: 3rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border: 3px solid var(--azul);
-    border-radius: 20px;
-    width: 38.4375rem;
-    background-color: #f0f8ff0e;
-    transition: 500ms all;
-}
-  ~~~
   
   ## Barra de navegacao
   Usada em todas as paginas do projeto a barra de navegcao deve fica no centro e com pequeno espaçamento entre as opcoes. Acrescentei navegacao com teclado e efeito hover como demonstrado abaixo:
@@ -77,7 +54,43 @@
     border-bottom: 2px solid var(--azul);
 }
   ~~~
+
+  ## Pagina Home
+  O desafio dessa pagina foi centralizar todo conteudo e organizar os espaçamentos entre cada item. Minha solucao foi usar o Flexbox como demonstrado abaixo.
   
+  ~~~CSS
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.conteudo {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid var(--azul);
+    border-radius: 20px;
+    width: 38.4375rem;
+    background-color: #f0f8ff0e;
+    transition: 500ms all;
+}
+  ~~~
+   ## Pagina Sobre e Curriculo
+  Essas duas paginas tem conteudo muito semelhante entao accabei aproveitando varias classes CSS usada em outras paginas e a solucao em CSS foi a mesma. a uma pequena diferença que na pagina do Currisulo utiliei uma lista não ordenada como mostro abaixo:
+  
+  ~~~HTML
+    <h2 class="conteudo__titulo">Experiências</h2>
+
+         <ul class="conteudo__lista">
+             <li class="conteudo__item">Empresa tal (2020 - 2021) - fazia isso e aquilo</li>
+             <li class="conteudo__item">Empresa tal (2020 - 2021) - fazia isso e aquilo</li>
+             <li class="conteudo__item">Empresa tal (2020 - 2021) - fazia isso e aquilo</li>
+         </ul>
+  ~~~
+ 
    ## Rodape
   Usada em todas as paginas do projeto o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteudo centralizado. Abaixo minha solucao.
   
