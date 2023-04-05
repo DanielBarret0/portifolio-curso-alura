@@ -24,7 +24,7 @@
 
   
   ## :zap: Barra de navegacao
-  Usada em todas as paginas do projeto a barra de navegcao deve fica no centro e com pequeno espaçamento entre as opcoes. Acrescentei navegacao com teclado e efeito hover como demonstrado abaixo:
+  Usada em todas as paginas do projeto, a barra de navegação deve fica no centro e com pequeno espaçamento entre as opções. Acrescentei navegação com teclado e efeito hover como demonstrado abaixo:
   
    ~~~CSS
 .navegacao {
@@ -58,7 +58,7 @@
   <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/2-gif-barra-navegacao.gif">
 
   ## :zap: Pagina Home
-  O desafio dessa pagina foi centralizar todo conteudo e organizar os espaçamentos entre cada item. Minha solucao foi usar o Flexbox como demonstrado abaixo.
+ O desafio dessa pagina foi centralizar todo conteúdo e organizar os espaçamentos entre cada item. Minha solução foi usar o Flexbox como demonstrado abaixo.
   
   ~~~CSS
 .container {
@@ -85,7 +85,7 @@
   
   
    ## :zap: Pagina Sobre e Curriculo
-  Essas duas paginas tem conteudo muito semelhante entao accabei aproveitando varias classes CSS usada em outras paginas e a solucao em CSS foi a mesma. a uma pequena diferença que na pagina do Currisulo utiliei uma lista não ordenada como mostro abaixo:
+  Essas duas páginas tem conteúdo muito semelhante, então acabei aproveitando várias classes CSS usada em outras páginas e a solução em CSS foi a mesma. A uma pequena diferença que na página do Currículo utilizei uma lista não ordenada como mostro abaixo:
   
   ~~~HTML
     <h2 class="conteudo__titulo">Experiências</h2>
@@ -100,7 +100,7 @@
   <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/3-gif-sobre-e-curriculo.gif">
  
    ## :zap: Rodape
-  Usada em todas as paginas do projeto o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteudo centralizado. Abaixo minha solucao.
+  Usada em todas as paginas do projeto, o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteúdo centralizado. Abaixo minha solução:
   
  ~~~CSS
 .rodape {
