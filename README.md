@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/capa-projeto.png">
+<img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/capa-projeto.png#vitrinedev">
 </div>
 
 # 🗒️ Sobre o projeto
