@@ -126,5 +126,12 @@
   
   <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/4-rodape-solucao.png">
   
- # Autor 
+
+# 🙋‍♂️ Autor
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md)
+
+José Daniel Aragão Barreto
+
+Acesse o meu [LinkedIn](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
  
