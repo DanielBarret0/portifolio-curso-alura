@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="">
+<img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/capa-projeto.png">
 </div>
 
 # 🗒️ Sobre o projeto
@@ -13,17 +13,17 @@
 | :laughing: Extras feito     | **animação do background, Scroll Bar.**
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-# 🖼️ Banner do VitrineDev
+# 🖼️ Banner do Projeto
 <div align="center">
 
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/banner-projeto.png">
 </div>
 
 
-# 🖼️ Minha experiencia
+# :relaxed: Minha experiencia
 
   
-  ## Barra de navegacao
+  ## :zap: Barra de navegacao
   Usada em todas as paginas do projeto a barra de navegcao deve fica no centro e com pequeno espaçamento entre as opcoes. Acrescentei navegacao com teclado e efeito hover como demonstrado abaixo:
   
    ~~~CSS
@@ -55,9 +55,9 @@
 }
   ~~~
   
-  <img align="center" src="">
+  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/2-gif-barra-navegacao.gif">
 
-  ## Pagina Home
+  ## :zap: Pagina Home
   O desafio dessa pagina foi centralizar todo conteudo e organizar os espaçamentos entre cada item. Minha solucao foi usar o Flexbox como demonstrado abaixo.
   
   ~~~CSS
@@ -81,10 +81,10 @@
 }
   ~~~
   
-  <img align="center" src="">
+  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/1-pagina-home-solucao.png">
   
   
-   ## Pagina Sobre e Curriculo
+   ## :zap: Pagina Sobre e Curriculo
   Essas duas paginas tem conteudo muito semelhante entao accabei aproveitando varias classes CSS usada em outras paginas e a solucao em CSS foi a mesma. a uma pequena diferença que na pagina do Currisulo utiliei uma lista não ordenada como mostro abaixo:
   
   ~~~HTML
@@ -97,9 +97,9 @@
          </ul>
   ~~~
   
-  <img align="center" src="">
+  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/3-gif-sobre-e-curriculo.gif">
  
-   ## Rodape
+   ## :zap: Rodape
   Usada em todas as paginas do projeto o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteudo centralizado. Abaixo minha solucao.
   
  ~~~CSS
@@ -124,7 +124,7 @@
   ~~~
   
   
-  <img align="center" src="">
+  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/4-rodape-solucao.png">
   
  # Autor 
  
