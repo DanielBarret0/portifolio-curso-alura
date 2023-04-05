@@ -1,0 +1,33 @@
+main {
+    height: 70vh;
+}
+
+.conteudo__item {
+    font-family: var(--fonte-secundario);
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: rgb(203, 203, 203);
+    line-height: 36px;
+    padding: 1rem 0;
+}
+.conteudo__link:focus {
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+.conteudo__lista {
+    list-style: square;
+    padding-left: 1.5rem;
+}
+
+.conteudo__link {
+    font-family: var(--fonte-secundario);
+    font-weight: 400;
+    color: var(--azul);
+    text-decoration: none;
+
+}
+
+.conteudo__link:hover {
+    text-decoration: underline;
+}

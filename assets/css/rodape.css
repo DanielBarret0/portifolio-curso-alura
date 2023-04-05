@@ -1,0 +1,18 @@
+.rodape {
+    padding: 2rem;
+    background: var(--azul);
+    text-align: center;
+    font-family: var(--fonte-secundario);
+    font-size: 1.5rem;
+}
+
+.rodape__link {
+    text-decoration: none;
+    text-transform: bold;
+    color: black;
+}
+
+.rodape__link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

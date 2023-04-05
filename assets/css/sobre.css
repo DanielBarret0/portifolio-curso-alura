@@ -1,0 +1,11 @@
+main {
+    margin: 5%;
+    height: 70vh;
+}
+
+.conteudo__sobre {
+    width: 40%;
+    padding: 3rem;
+    border: 3px solid var(--azul);
+    border-radius: 20px;
+}

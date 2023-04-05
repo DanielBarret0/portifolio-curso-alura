@@ -1,0 +1,189 @@
+@import url(../css/reset.css);
+@import url(../css/rodape.css);
+@import url(../css/navegacao.css);
+
+:root {
+
+    --fonte: 'Krona One', sans-serif;
+    --fonte-secundario: 'Montserrat', sans-serif;
+
+    --azul: #22D4FD;
+    --branco: #FFF;
+    --cinza: #cbcbcb;
+    --cinza-transparente: #b7b7b765;
+
+}
+
+
+body {
+    background: black;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+main {
+    margin: 5%;
+    height: 70vh;
+}
+
+.borda {
+    width: 40%;
+    padding: 3rem;
+    border: 3px solid var(--azul);
+    border-radius: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.conteudo {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid var(--azul);
+    border-radius: 20px;
+    width: 38.4375rem;
+    background-color: #f0f8ff0e;
+    transition: 500ms all;
+}
+
+.conteudo__titulo {
+    font-size: 2.25rem;
+    font-family: var(--fonte);
+    color: var(--branco);
+    line-height: 36px;
+}
+
+.conteudo__destaque {
+    color: var(--azul);
+}
+
+.conteudo__texto {
+    font-family: var(--fonte-secundario);
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: var(--cinza);
+    line-height: 36px;
+    padding: 2rem 0;
+}
+
+.conteiner__redes {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+}
+
+.conteudo__subtitulo {
+    font-size: 2rem;
+    font-family: var(--fonte-secundario);
+    text-transform: bold;
+    color: var(--branco);
+    line-height: 36px;
+}
+
+.container__botao {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.botao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    transition: 500ms all;
+    gap: 1rem;
+    width: 50%;
+    background: #22d5fd00;
+    border: 2px solid var(--azul);
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: var(--fonte-secundario);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--branco);
+    text-align: center;
+}
+.botao:focus {
+    color: greenyellow;
+}
+
+.icones {
+    color: var(--azul);
+}
+
+.botao:hover {
+    background-color: #b7b7b765;
+}
+
+.imagem {
+    height: 700px;
+    width: 600px;
+}
+
+
+/*============================= Background animado ========================*/
+
+.css-selector {
+    background: linear-gradient(182deg, #00102f, #1b2037);
+    background-size: 400% 400%;
+
+    animation: Gradiente 5s ease infinite;
+}
+
+@keyframes Gradiente {
+    0%{background-position:48% 0%}
+    50%{background-position:53% 100%}
+    100%{background-position:48% 0%}
+}
+
+
+/* ======================== Scroll ============================ */
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--azul) #DFE9EB;
+  }
+  
+  /* Chrome, Edge and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+    width: 10px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #DFE9EB;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: var(--azul);
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #62A34B;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #62A34B;
+  }
+  
