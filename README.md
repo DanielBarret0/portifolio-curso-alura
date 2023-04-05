@@ -20,7 +20,7 @@
 </div>
 
 
-# :relaxed: Minha experiencia
+# :relaxed: Minha experiência
 
   
   ## :zap: Barra de navegacao
