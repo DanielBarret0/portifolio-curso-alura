@@ -54,6 +54,8 @@
     border-bottom: 2px solid var(--azul);
 }
   ~~~
+  
+  <img align="center" src="">
 
   ## Pagina Home
   O desafio dessa pagina foi centralizar todo conteudo e organizar os espaçamentos entre cada item. Minha solucao foi usar o Flexbox como demonstrado abaixo.
@@ -78,6 +80,10 @@
     transition: 500ms all;
 }
   ~~~
+  
+  <img align="center" src="">
+  
+  
    ## Pagina Sobre e Curriculo
   Essas duas paginas tem conteudo muito semelhante entao accabei aproveitando varias classes CSS usada em outras paginas e a solucao em CSS foi a mesma. a uma pequena diferença que na pagina do Currisulo utiliei uma lista não ordenada como mostro abaixo:
   
@@ -90,6 +96,8 @@
              <li class="conteudo__item">Empresa tal (2020 - 2021) - fazia isso e aquilo</li>
          </ul>
   ~~~
+  
+  <img align="center" src="">
  
    ## Rodape
   Usada em todas as paginas do projeto o rodapé super simples de ser feito apenas com texto e um link personalizado com todo conteudo centralizado. Abaixo minha solucao.
@@ -115,5 +123,8 @@
 }
   ~~~
   
+  
+  <img align="center" src="">
+  
+ # Autor 
  
-
