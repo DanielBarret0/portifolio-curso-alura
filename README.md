@@ -9,7 +9,7 @@
 | ✨: Nome        | Mini portifolio
 | 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   | 🎇: Bibliotecas |  [IcoMoon](https://icomoon.io/),[Gradiente Animado](https://www.gradient-animator.com/), [Scrollbar](https://www.cssportal.com/css-scrollbar-generator/).
-| 🚀: URL         | [CodeChella]()
+| 🚀: URL         | [Mini Portfólio](https://portifolio-curso-alura.bohr.io/)
 | :laughing: Extras feito     | **animação do background, Scroll Bar.**
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
