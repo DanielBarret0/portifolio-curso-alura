@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/capa-projeto.png#vitrinedev">
+<img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/capa-projeto.png">
 </div>
 
 # 🗒️ Sobre o projeto
@@ -15,8 +15,7 @@
 
 # 🖼️ Banner do Projeto
 <div align="center">
-
-<img src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/banner-projeto.png">
+<img src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/3-gif-sobre-e-curriculo.gif#vitrinedev">
 </div>
 
 
