@@ -15,7 +15,7 @@
 
 # 🖼️ Banner do Projeto
 <div align="center">
-<img src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/3-gif-sobre-e-curriculo.gif#vitrinedev">
+<img src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/gif-responsivo.gif#vitrinedev">
 </div>
 
 
