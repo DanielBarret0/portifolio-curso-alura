@@ -126,6 +126,12 @@ main {
     background-color: #b7b7b765;
 }
 
+.caixa__imagem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .imagem {
     width: auto;
 }
@@ -138,8 +144,9 @@ main {
     }
 
     .imagem {
-        width: auto;
+        width: 90%;
         object-fit: cover;
+        margin: 0 auto;
     }
 
     .borda {
