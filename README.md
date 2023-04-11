@@ -163,7 +163,7 @@
     }
     }
    ~~~
-  <img align="center" src="">
+  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/gif-responsivo.gif">
   
 
 # 🙋‍♂️ Autor
