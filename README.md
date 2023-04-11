@@ -122,8 +122,48 @@
 }
   ~~~
   
+    <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/4-rodape-solucao.png">
   
-  <img align="center" src="https://github.com/DanielBarret0/portifolio-curso-alura/blob/main/assets/img/4-rodape-solucao.png">
+  ## :zap: Responsividade
+  Agora foi adicionado a página a responsividade! Isso é agora esse projeto pode ser visto através de aparelhos mobile com uma boa experiência onde cada ‘item’ tem o tamanho adequado e organizado. Tudo isso só é possível com o media queires onde definimos o que acontece com a pagina a partir de cada largura, uma condição aos elementos como demonstro abaixo:
+  
+   ~~~CSS
+   @media screen and (max-width:1200px) {
+
+    .container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .imagem {
+        width: 90%;
+        object-fit: cover;
+        margin: 0 auto;
+    }
+
+    .borda {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    .conteudo__titulo {
+        font-size: 1.5rem;
+    }
+
+    .conteudo__texto {
+        font-style: 1rem;
+    }
+
+    .conteudo__subtitulo {
+        font-size: 1.3rem;
+    }
+
+    .botao {
+        font-size: 1rem;
+    }
+    }
+   ~~~
+  <img align="center" src="">
   
 
 # 🙋‍♂️ Autor
